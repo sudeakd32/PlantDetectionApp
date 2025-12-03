@@ -15,7 +15,6 @@ The app allows users to capture or upload plant images to identify species, rece
     * Identified Plant Name
     * Botanical Summary
     * Plant Image Preview
-* 🗺️ **Map Integration:** Clean UIKit interface with **MapKit** to show common growth regions.
 
 ### Python Backend (FastAPI)
 * 🧠 **AI Powered:** Utilizes a **YOLOv8 classification model** (`yolov8n-cls.pt`).
@@ -23,7 +22,7 @@ The app allows users to capture or upload plant images to identify species, rece
 * 📖 **Wiki Integration:** Processes the image → runs the model → fetches Wikipedia details automatically.
 * 🔄 **Structured Output:** Returns a clean JSON response:
 
-```json
+json
 {
   "plant_name": "Watermelon",
   "info": "Watermelon is a flowering plant species...",
@@ -49,19 +48,19 @@ Backend
 PlantDetectionApp/
 │
 ├── Backend/
-│   ├── main.py
-│   ├── requirements.txt
-│   └── yolov8n-cls.pt
+│   ├── main.py              # FastAPI application entry point
+│   ├── requirements.txt     # Python dependencies
+│   └── yolov8n-cls.pt       # Trained YOLOv8 model
 │
 ├── Frontend/
-│   └── PlanDetectionApp/
+│   └── PlantDetectionApp/   # iOS Project Root
 │       ├── AppDelegate.swift
-│       ├── ViewController.swift
-│       ├── InfoViewController.swift
 │       ├── SceneDelegate.swift
+│       ├── ViewController.swift      # Main UI Logic
+│       ├── InfoViewController.swift  # Result Display Logic
 │       ├── Info.plist
 │       └── Base.lproj/
-│           ├── Main.storyboard
+│           ├── Main.storyboard       # UI Layout
 │           └── LaunchScreen.storyboard
 │
 └── README.md
