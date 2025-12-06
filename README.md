@@ -45,22 +45,28 @@ Backend
 
 ## 📂 Project Structure
 
-PlantDetectionApp/
-│
-├── Backend/
-│   ├── main.py              # FastAPI application entry point
-│   ├── requirements.txt     # Python dependencies
-│   └── yolov8n-cls.pt       # Trained YOLOv8 model
-│
-├── Frontend/
-│   └── PlantDetectionApp/   # iOS Project Root
-│       ├── AppDelegate.swift
-│       ├── SceneDelegate.swift
-│       ├── ViewController.swift      # Main UI Logic
-│       ├── InfoViewController.swift  # Result Display Logic
-│       ├── Info.plist
-│       └── Base.lproj/
-│           ├── Main.storyboard       # UI Layout
-│           └── LaunchScreen.storyboard
-│
-└── README.md
+	PlantDetectionApp/
+	│
+	├── Backend/
+	│   ├── main.py              # FastAPI application entry point
+	│   ├── requirements.txt     # Python dependencies
+	│   └── yolov8n-cls.pt       # Trained YOLOv8 model
+	│
+	├── Frontend/
+	│   └── PlantDetectionApp/   # iOS Project Root
+	│       ├── AppDelegate.swift
+	│       ├── SceneDelegate.swift
+	│       ├── ViewController.swift      # Main UI Logic
+	│       ├── InfoViewController.swift  # Result Display Logic
+	│       ├── Info.plist
+	│       └── Base.lproj/
+	│           ├── Main.storyboard       # UI Layout
+	│           └── LaunchScreen.storyboard
+	│
+	└── README.md
+	
+## 📱 Screenshots
+![Alt text](https://github.com/sudeakd32/TrafficSignDetection/blob/main/screenshot.png)
+![Alt text](https://github.com/sudeakd32/TrafficSignDetection/blob/main/screenshot.png)
+![Alt text](https://github.com/sudeakd32/TrafficSignDetection/blob/main/screenshot.png)
+![Alt text](https://github.com/sudeakd32/TrafficSignDetection/blob/main/screenshot.png)
