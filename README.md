@@ -22,12 +22,13 @@ The app allows users to capture or upload plant images to identify species, rece
 * 📖 **Wiki Integration:** Processes the image → runs the model → fetches Wikipedia details automatically.
 * 🔄 **Structured Output:** Returns a clean JSON response:
 
-json
-{
-  "plant_name": "Watermelon",
-  "info": "Watermelon is a flowering plant species...",
-  "wiki_title": "Watermelon"
-} 
+		json:
+		{
+  			"plant_name": "Watermelon",
+  			"info": "Watermelon is a flowering plant species...",
+  			"wiki_title": "Watermelon"
+		} 
+
  ## 🧠 Tech Stack
 
 Frontend
