@@ -72,22 +72,22 @@ Backend
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/sudeakd32/PlantDetectionApp/blob/main/screenshots/Ekran%20Resmi%202025-12-02%2011.06.16.png" width="200">
+        <img src="https://github.com/sudeakd32/PlantDetectionApp/blob/main/screenshots/Ekran%20Resmi%202025-12-02%2011.07.52.png" width="200">
         <br>
         <sub><b>Ana Ekran</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/sudeakd32/PlantDetectionApp/blob/main/screenshots/Ekran%20Resmi%202025-12-02%2011.06.44.png" width="200">
+        <img src="https://github.com/sudeakd32/PlantDetectionApp/blob/main/screenshots/Ekran%20Resmi%202025-12-02%2011.06.16.png" width="200">
         <br>
         <sub><b>Galeri/Kamera</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/sudeakd32/PlantDetectionApp/blob/main/screenshots/Ekran%20Resmi%202025-12-02%2011.07.11.png" width="200">
+        <img src="https://github.com/sudeakd32/PlantDetectionApp/blob/main/screenshots/Ekran%20Resmi%202025-12-02%2011.06.44.png" width="200">
         <br>
         <sub><b>Analiz Süreci</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/sudeakd32/PlantDetectionApp/blob/main/screenshots/Ekran%20Resmi%202025-12-02%2011.07.52.png" width="200">
+        <img src="https://github.com/sudeakd32/PlantDetectionApp/blob/main/screenshots/Ekran%20Resmi%202025-12-02%2011.07.11.png" width="200">
         <br>
         <sub><b>Sonuç Ekranı</b></sub>
       </td>
