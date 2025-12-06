@@ -66,7 +66,7 @@ Backend
 	└── README.md
 	
 ## 📱 Screenshots
-![Alt text](https://github.com/sudeakd32/TrafficSignDetection/blob/main/screenshot.png)
+![Alt text](https://github.com/sudeakd32/PlantDetectionApp/blob/main/screenshots/Ekran%20Resmi%202025-12-02%2011.06.16.png)
 ![Alt text](https://github.com/sudeakd32/TrafficSignDetection/blob/main/screenshot.png)
 ![Alt text](https://github.com/sudeakd32/TrafficSignDetection/blob/main/screenshot.png)
 ![Alt text](https://github.com/sudeakd32/TrafficSignDetection/blob/main/screenshot.png)
