@@ -34,7 +34,6 @@ The app allows users to capture or upload plant images to identify species, rece
 Frontend
 	•	Swift
 	•	UIKit
-	•	MapKit
 	•	URLSession (multipart upload)
 
 Backend
